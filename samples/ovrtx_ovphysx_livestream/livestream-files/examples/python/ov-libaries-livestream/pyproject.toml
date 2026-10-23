@@ -8,5 +8,5 @@ dependencies = [
     "numpy==2.4.2; python_version >= '3.14'",
     "ovphysx==0.3.7",
     "ovrtx==0.3.0.312915",
-    "pillow==12.2.0",
+    "pillow==12.3.0",
 ]
